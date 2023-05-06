@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Semana4Sesion1.2</string>
+    <string name="verdadero">Verdadero</string>
+    <string name="falso">Falso</string>
+    <string name="es_lima_capital_de_chile">Es Lima capital de Chile</string>
+    <string name="next">Next</string>
+</resources>
